@@ -1,3 +1,3 @@
-# PDS - Programação e Desenvolvimento de Software
+# BASIC C++ PROGRAMS
 
-Códigos desenvolvidos na linguagem C++ para a matéria de Programação e Desenvolvimento de Software 2, na Universidade Federal de Minas Gerais, UFMG.
+Codes in C++ developed during the programming and software development course at the Federal University of Minas Gerais (UFMG).
